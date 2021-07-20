@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         loginViewModel.getUser().observe(this, new Observer() {
             @Override
             public void onChanged(@Nullable Object obj){
-                Log.d("dt_db", "ma31");
+
                 UserDataInput userObj = (UserDataInput)obj;
                 if(userObj == null){
                     return;
