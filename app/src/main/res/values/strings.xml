@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MVVM_login_test</string>
+    <string name="email_prompt">Email</string>
+    <string name="email_empty">Please enter your email address</string>
+    <string name="email_invalid">Invalid email address</string>
+    <string name="email_wrong">Can\'t find this account</string>
+    <string name="password_prompt">Password</string>
+    <string name="password_empty">Please enter your password</string>
+    <string name="password_wrong">Wrong password</string>
+    <string name="login_button">Sign In</string>
+</resources>
